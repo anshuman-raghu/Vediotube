@@ -45,7 +45,7 @@
 
 
 🧪 Full Postman API Documentation:
-👉 [Videotube Postman Collection](https://documenter.getpostman.com/view/38671131/2sB2qUokJr)
+👉 [Videotube Postman Collection](https://documenter.getpostman.com/view/38671131/2sBXVfjrZW)
 
 ---
 
